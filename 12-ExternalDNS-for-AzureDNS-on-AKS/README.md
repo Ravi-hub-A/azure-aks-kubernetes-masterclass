@@ -27,8 +27,8 @@ az account show --query "id"
 ### Create azure.json file
 ```json
 {
-  "tenantId": "c81f465b-99f9-42d3-a169-8082d61c677a",
-  "subscriptionId": "82808767-144c-4c66-a320-b30791668b0a",
+  "tenantId": "f1c7c350-ec86-4e10-8a46-6ecb6d5b0bf9",
+  "subscriptionId": "326e55da-c5a8-4e97-b267-179496649e40",
   "resourceGroup": "dns-zones", 
   "useManagedIdentityExtension": true,
   "userAssignedIdentityID": "404b0cc1-ba04-4933-bcea-7d002d184436"  
